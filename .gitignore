@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .env
 .streamlit/secrets.toml
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+*.wav
+*.mp3
