@@ -1,4 +1,4 @@
-openai
 streamlit>=1.41          # st.audio_input was added in 1.41
+openai>=1.40             # Azure AI Foundry client (services/foundry.py)
 azure-cognitiveservices-speech>=1.40
 python-dotenv>=1.0
